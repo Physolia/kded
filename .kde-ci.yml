@@ -8,7 +8,6 @@ Dependencies:
     'frameworks/kservice' : '@same'
     'frameworks/kwindowsystem' : '@same'
     'frameworks/kcrash' : '@same'
-    'frameworks/kinit' : '@same'
     'frameworks/kdoctools' : '@same'
 
 Options:
